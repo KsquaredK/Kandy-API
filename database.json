@@ -1,0 +1,78 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "squareFeet": 144,
+            "adress": "100 Commerce Way",
+            "accessible": false
+        },
+        {
+            "id": 2,
+            "squareFeet": 6000,
+            "adress": "2222 W. Plum Drive",
+            "accessible": true
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "typeId": 1,
+            "name": "Pop Rocks",
+            "price": 1.09
+        },
+        {
+            "id": 2,
+            "typeId": 2,
+            "name": "Fruit Stripe",
+            "price": 1.00
+        },
+        {
+            "id": 3,
+            "typeId": 1,
+            "name": "Jolly Ranchers",
+            "price": 0.10
+        },
+        {
+            "id": 4,
+            "typeId": 3,
+            "name": "Rolos",
+            "price": 0.89
+        },
+        {
+            "id": 5,
+            "typeId": 1,
+            "name": "Coffee Nips",
+            "price": 2.69
+        },
+        {
+            "id": 6,
+            "typeId": 4,
+            "name": "Ale 8",
+            "price": 1.69
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "type": "Gum"
+        },
+        {
+            "id": 3,
+            "type": "Chocolate"
+        },
+        {
+            "id": 4,
+            "type": "Sodas"
+        }
+    ],
+    "employees": [
+        {}
+    ],
+    "customers": [
+        {}
+    ]
+}
